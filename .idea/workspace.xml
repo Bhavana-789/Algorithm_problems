@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45581af6-634c-4dd4-9787-fd8eaf32c27a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_wage/employee_attendance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_wage/monthly_wages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_wage/wages_per_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_problems/common_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_problems/prime_factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_testing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic_Core_programs/prime_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic_Core_programs/prime_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_testing/.idea/Unit_testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit_testing/.idea/Unit_testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit_testing/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit_testing/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29LdM6hNxxhYa3akotrnrq4jSta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bhava/PycharmProjects/Algorith_programs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45581af6-634c-4dd4-9787-fd8eaf32c27a" name="Changes" comment="" />
+      <created>1652896249066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652896249066</updated>
+    </task>
+    <servers />
+  </component>
+</project>
